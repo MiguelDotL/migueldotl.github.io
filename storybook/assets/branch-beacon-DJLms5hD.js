@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";var t,n=e((()=>{t=`/storybook/assets/branch-beacon-Bio0Vl3I.png`}));export{n,t};

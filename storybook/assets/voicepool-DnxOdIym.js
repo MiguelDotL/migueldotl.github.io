@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";var t,n=e((()=>{t=`/storybook/assets/voicepool-BpCuZnJo.png`}));export{t as n,n as t};

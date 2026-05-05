@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";var t,n=e((()=>{t=`/storybook/assets/c-solutions-512-CR2wtbJy.png`})),r,i=e((()=>{r=`/storybook/assets/filthy-food-512-CUKLTgEc.png`}));export{n as i,i as n,t as r,r as t};

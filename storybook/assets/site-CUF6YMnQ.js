@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";var t,n,r,i,a=e((()=>{t=[{name:`home`,text:`Home`},{name:`skills`,text:`Skills`},{name:`projects`,text:`Projects`},{name:`contact`,text:`Contact`}],n=`/resources/miguel_lozano_resume_2026.pdf`,r=`https://www.linkedin.com/in/migueldot/`,i=`//www.duolingo.com/profile/MiguelDotL`}));export{a,n as i,r as n,t as r,i as t};

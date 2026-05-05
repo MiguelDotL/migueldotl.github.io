@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";var t,n=e((()=>{t=`/storybook/assets/bcbs-main-Db9gX9jE.png`}));export{n,t};
