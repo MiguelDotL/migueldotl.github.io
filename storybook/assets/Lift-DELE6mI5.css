@@ -1,0 +1,1 @@
+.lift{transition:transform .2s,box-shadow .2s}.lift:hover{box-shadow:var(--lift-shadow,0 8px 18px #14142840);transform:translateY(-2px)}.lift.lift--md:hover{box-shadow:var(--lift-shadow,0 14px 32px #1414284d);transform:translateY(-4px)}.lift.lift--lg:hover{box-shadow:var(--lift-shadow,0 18px 40px #14142859);transform:translateY(-6px)}

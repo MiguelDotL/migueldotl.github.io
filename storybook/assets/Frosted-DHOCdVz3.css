@@ -1,0 +1,1 @@
+.frosted{background:var(--frosted-bg,#ffffff0d);-webkit-backdrop-filter:blur(var(--frosted-blur,10px)) saturate(var(--frosted-saturate,1.3))}

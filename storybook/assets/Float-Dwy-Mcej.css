@@ -1,0 +1,1 @@
+.float{animation:float-updown var(--float-duration,6s) ease-in-out infinite}@keyframes float-updown{0%{transform:translateY(calc(-1 * var(--float-distance,1em)))}50%{transform:translateY(var(--float-distance,1em))}to{transform:translateY(calc(-1 * var(--float-distance,1em)))}}

@@ -1,0 +1,1 @@
+.fade-scale-in{animation:fade-scale-in var(--fade-scale-duration,.18s) ease-out}@keyframes fade-scale-in{0%{opacity:0;transform:scale(var(--fade-scale-from,.96))}to{opacity:1;transform:scale(1)}}

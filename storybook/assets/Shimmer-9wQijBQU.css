@@ -1,0 +1,1 @@
+.shimmer{background:linear-gradient(90deg, var(--shimmer-base,#ffffff0a) 25%, var(--shimmer-highlight,#ffffff17) 50%, var(--shimmer-base,#ffffff0a) 75%);animation:shimmer-sweep var(--shimmer-duration,1.6s) ease-in-out infinite;background-size:200% 100%;border-radius:4px}@keyframes shimmer-sweep{0%{background-position:200% 0}to{background-position:-200% 0}}
