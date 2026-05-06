@@ -1,0 +1,21 @@
+import{n as e}from"./chunk-DnJy8xQt.js";import{r as t}from"./react-DJQhSVNb.js";import{t as n}from"./jsx-runtime-DI1hhrx8.js";import{o as r,s as i}from"./blocks-CVtOp2Zl.js";import{t as a}from"./mdx-react-shim-Bve0gygW.js";function o(e){let n={a:`a`,code:`code`,h1:`h1`,h2:`h2`,li:`li`,p:`p`,strong:`strong`,ul:`ul`,...t(),...e.components};return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(r,{title:`Welcome`}),`
+`,(0,c.jsx)(n.h1,{id:`migueldotl-portfolio--storybook`,children:`migueldotl-portfolio — Storybook`}),`
+`,(0,c.jsxs)(n.p,{children:[`Component library + design system for `,(0,c.jsx)(n.a,{href:`https://github.com/MiguelDotL/migueldotl-portfolio`,rel:`nofollow`,children:`migueldotl-portfolio`}),`.`]}),`
+`,(0,c.jsx)(n.h2,{id:`whats-in-here`,children:`What's in here`}),`
+`,(0,c.jsxs)(n.p,{children:[(0,c.jsx)(n.strong,{children:(0,c.jsx)(n.a,{href:`/?path=/docs/showcase-sections-hero--docs`,children:`Showcase`})}),` — the live page sections. Hero, NavBar, Projects, Skills, ContactMe, Footer. Useful for visual regression and seeing each section in isolation.`]}),`
+`,(0,c.jsxs)(n.p,{children:[(0,c.jsx)(n.strong,{children:(0,c.jsx)(n.a,{href:`/?path=/docs/components-primitives-button--docs`,children:`Components`})}),` — the reusable React building blocks split into `,(0,c.jsx)(n.code,{children:`Composites`}),` (multi-part, e.g. `,(0,c.jsx)(n.code,{children:`<MomentumTabs>`}),`, `,(0,c.jsx)(n.code,{children:`<ContactForm>`}),`) and `,(0,c.jsx)(n.code,{children:`Primitives`}),` (single-purpose, e.g. `,(0,c.jsx)(n.code,{children:`<Button>`}),`, `,(0,c.jsx)(n.code,{children:`<NavLink>`}),`).`]}),`
+`,(0,c.jsxs)(n.p,{children:[(0,c.jsx)(n.strong,{children:(0,c.jsx)(n.a,{href:`/?path=/docs/foundations-overview--docs`,children:`Foundations`})}),` — pure CSS utility classes you drop on any element. No JSX, no React. See the `,(0,c.jsx)(n.a,{href:`/?path=/docs/foundations-overview--docs`,children:`overview`}),` for the foundations-vs-components distinction.`]}),`
+`,(0,c.jsxs)(n.p,{children:[(0,c.jsx)(n.strong,{children:(0,c.jsx)(n.a,{href:`/?path=/docs/design-iterations-projecttabs--pill-fill-sliding`,children:`Design Iterations`})}),` — design exploration. Iterations of components that may or may not have shipped. Useful for "why does it look the way it does" history.`]}),`
+`,(0,c.jsx)(n.h2,{id:`where-to-start`,children:`Where to start`}),`
+`,(0,c.jsxs)(n.ul,{children:[`
+`,(0,c.jsxs)(n.li,{children:[(0,c.jsx)(n.strong,{children:`First time?`}),` Skim a section in Showcase, then check a primitive (`,(0,c.jsx)(n.code,{children:`Components/Primitives/Button`}),`).`]}),`
+`,(0,c.jsxs)(n.li,{children:[(0,c.jsx)(n.strong,{children:`Looking for a reusable hover/animation?`}),` `,(0,c.jsx)(n.a,{href:`/?path=/docs/foundations-overview--docs`,children:`Foundations overview`}),`.`]}),`
+`,(0,c.jsxs)(n.li,{children:[(0,c.jsx)(n.strong,{children:`Curious about a design choice?`}),` Browse Design Iterations.`]}),`
+`]}),`
+`,(0,c.jsx)(n.h2,{id:`conventions`,children:`Conventions`}),`
+`,(0,c.jsxs)(n.ul,{children:[`
+`,(0,c.jsxs)(n.li,{children:[`Component stories live next to the component: `,(0,c.jsx)(n.code,{children:`Foo.tsx`}),` + `,(0,c.jsx)(n.code,{children:`Foo.stories.tsx`}),`.`]}),`
+`,(0,c.jsxs)(n.li,{children:[`Foundations live in `,(0,c.jsx)(n.a,{href:`https://github.com/MiguelDotL/migueldotl-portfolio/tree/main/src/effects`,rel:`nofollow`,children:(0,c.jsx)(n.code,{children:`src/effects/`})}),` — one CSS file + one story per effect, with a barrel `,(0,c.jsx)(n.code,{children:`index.css`}),` imported globally.`]}),`
+`,(0,c.jsxs)(n.li,{children:[`Component types are exported alongside components (e.g. `,(0,c.jsx)(n.code,{children:`MomentumTabsProps`}),`).`]}),`
+`,(0,c.jsxs)(n.li,{children:[`All stories pass axe (with two narrow disables: Hero color-contrast and `,(0,c.jsx)(n.code,{children:`.sb-mock__brand`}),` — see those stories' notes for why).`]}),`
+`]})]})}function s(e={}){let{wrapper:n}={...t(),...e.components};return n?(0,c.jsx)(n,{...e,children:(0,c.jsx)(o,{...e})}):o(e)}var c;e((()=>{c=n(),a(),i()}))();export{s as default};

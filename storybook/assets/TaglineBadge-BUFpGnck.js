@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-DnJy8xQt.js";import{t}from"./jsx-runtime-DI1hhrx8.js";var n=e((()=>{})),r,i,a=e((()=>{r=t(),i=({children:e})=>(0,r.jsx)(`span`,{className:`tagline`,children:e}),i.__docgenInfo={description:``,methods:[],displayName:`TaglineBadge`,props:{children:{required:!0,tsType:{name:`ReactNode`},description:``}}}}));export{a as n,n as r,i as t};
