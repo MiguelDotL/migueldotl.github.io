@@ -1,0 +1,6 @@
+import{n as e}from"./chunk-DnJy8xQt.js";import{t}from"./jsx-runtime-HMuSy4bC.js";var n=e((()=>{})),r,i,a=e((()=>{n(),r=t(),i=({config:e,onHover:t})=>(0,r.jsx)(`div`,{className:`social-icons`,children:e.map(e=>(0,r.jsx)(`a`,{className:`social-icon ${e.className}`,href:e.url,target:`_blank`,rel:`noreferrer`,"aria-label":e.label,onMouseEnter:()=>t?.(e.label),onMouseLeave:()=>t?.(null),children:(0,r.jsx)(`img`,{src:e.icon,alt:e.label,loading:`lazy`})},e.className))}),i.__docgenInfo={description:``,methods:[],displayName:`SocialIcons`,props:{config:{required:!0,tsType:{name:`Array`,elements:[{name:`signature`,type:`object`,raw:`{
+    className: string;
+    icon: string;
+    url: string;
+    label: string;
+}`,signature:{properties:[{key:`className`,value:{name:`string`,required:!0}},{key:`icon`,value:{name:`string`,required:!0}},{key:`url`,value:{name:`string`,required:!0}},{key:`label`,value:{name:`string`,required:!0}}]}}],raw:`SocialIconConfig[]`},description:``},onHover:{required:!1,tsType:{name:`signature`,type:`function`,raw:`(label: string | null) => void`,signature:{arguments:[{type:{name:`union`,raw:`string | null`,elements:[{name:`string`},{name:`null`}]},name:`label`}],return:{name:`void`}}},description:``}}}}));export{a as n,i as t};
